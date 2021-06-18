@@ -1,0 +1,24 @@
+th{
+    color: skyblue;
+    font-size: 40px;
+    font-family: fantasy;
+    text-align: center;
+    background-color: #3273a8;
+}
+td{
+    color: palevioletred;
+    background-color: cadetblue
+    font-kerning: auto;
+    font-family: inherit;
+    font-size: 20px;
+    border-color: blueviolet
+        
+}
+table{
+    font-display: block;
+    border-collapse: inherit;
+     background-color: #3273a8;
+    border-width: 2px;
+    border-style: groove;
+    border-color: black;
+}
